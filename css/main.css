@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFFFFF;
+    padding: 5px;
+}
+
+header {
+    display: block;
+    width: auto;
+    height: inherit;
+    background-color: #F9D3C8;
+    padding: 10px;
+}
+
+h1 {
+    size: 2em;
+    color: #334E49;
+}
+
+article {
+    display: block;
+    width: 40%;
+    float: left;
+    padding: 5px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+aside {
+    padding: 5px;
+    display: inline-block;
+    float: right;
+}
+
+img {
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: #B25452;
+}
